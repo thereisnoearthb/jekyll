@@ -304,3 +304,5 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
+theme: jekyll-theme-minimal
